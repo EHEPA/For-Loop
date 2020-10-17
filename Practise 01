@@ -1,0 +1,8 @@
+class for6{
+	public static void main(String[] args) {
+		int h=0;
+		for (int x=1;x<=15;x++){
+		h=x*x;	
+		System.out.println(h);	}
+	}
+}
