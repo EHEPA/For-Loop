@@ -1,9 +1,11 @@
 class for6{
 	public static void main(String[] args) {
 		int h=0;
+		int n=1;
 		for (int x=1;x<=15;x++){ //datatype,range,add
-		h=x*x;	
+		h=x*x;
+		h1=x+n;
 		System.out.println(h);
-		System.out.println(h);}
+		System.out.println(h1)}
 	}
 }
